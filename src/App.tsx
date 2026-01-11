@@ -79,7 +79,7 @@ function App() {
                   "Selamat ulang tahun Rayya! 🎉
                   Semoga panjang umur, sehat selalu, makin pintar, makin cantik, dan selalu dalam lindungan Tuhan. 
                   Semoga semua cita-citamu tercapai, dilancarkan segala urusannya, dan hari-harimu selalu penuh dengan kebahagiaan dan tawa.
-                  Tetaplah menjadi Rayya yang ceria dan baik hati. We love you! ❤️"
+                  Tetaplah menjadi Rayya yang ceria dan baik hati. I love you! ❤️"
                 </p>
                 <div className="text-sm font-bold tracking-widest text-pink-300 uppercase mt-4">
                   — With Love
